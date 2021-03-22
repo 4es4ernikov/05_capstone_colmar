@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 550;
+    color: gray;
+}
+header {
+    position: fixed;
+    height: 64px;
+    border: solid 1px;
+    width: 100%;
+}
+
+header  img {
+    height: 32px;
+    width:auto;
+    padding-top: 17px;
+    padding-left: 24px;
+}
+header p {
+    display: inline;
+    position: absolute;
+}
+#colmar {
+    font-weight: 700;
+    color: grey;
+    font-size: 20px;
+}
+#academy {
+    font-weight: 300;
+    color: lightgray;
+    font-size: 20px;
+    padding-left: 82px;
+    }
+
+header ul {
+    margin: 24px;
+    display: inline;
+    float: right;
+}
+header ul li {
+    display: inline;
+    padding: 16px;
+}
